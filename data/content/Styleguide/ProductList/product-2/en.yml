@@ -1,0 +1,12 @@
+id: product-2
+displayName: Samsung s21
+# Template defines the available fields. See /sitecore/definitions/templates/Styleguide-ContentList-Template.sitecore.js
+template: ProductData
+fields:
+  productId: 343
+  productName: Samsung s21
+  productDescription: |
+    The samsung is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The samsung runs the iOS operating system, and in 2021 when the samsung 13 was introduced, it offered up to 1 TB of storage and a 12-megapixel camera.
+  productImage:
+    src:  /data/media/img/Samsung.webp
+    alt: samsung

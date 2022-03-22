@@ -1,0 +1,12 @@
+id: health-article
+fields:
+  pageTitle: Molina | Health Info
+placeholders:
+  jss-main:
+    - componentName: HealthArticle
+      fields:
+        articleTitle: Health Article
+        articleBrief: This is a sample brief
+        articleDetails: |
+          <p>This is my sample rich text content</p>
+        articlePublishedDate:  12-02-2021

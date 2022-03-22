@@ -1,0 +1,18 @@
+id: product-info-2
+fields:
+  pageTitle: Molina | Product Info
+placeholders:
+  jss-main:
+    - componentName: ProductFacet
+      fields:
+        facetTitle: Mobiles
+        facetCount: 25
+    - componentName: Product
+      fields:
+        productId: Samsung-s21
+        productName: Samsung S21
+        productDescription: |
+          <p>This is my sample product given to test my product info page</p>
+        productImage:
+          src:  /data/media/img/Samsung.webp
+          alt:  Samsung
